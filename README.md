@@ -1,6 +1,6 @@
 # Project-Getting-and-Cleaning-Data
 
-Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Clicking will download the data")
+Data Zip File Location: [UCI Machine Learning Repository](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Clicking will download the data")
 
 ## Goal of the Project
 1. Analysis R Script
